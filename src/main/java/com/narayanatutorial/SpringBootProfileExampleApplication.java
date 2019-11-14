@@ -1,7 +1,10 @@
-package com.narayanatutorial.SpringBootProfileExample;
+package com.narayanatutorial;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+import com.narayanatutorial.service.VehicleBrand;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 

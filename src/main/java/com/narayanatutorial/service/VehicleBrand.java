@@ -1,4 +1,4 @@
-package com.narayanatutorial.SpringBootProfileExample;
+package com.narayanatutorial.service;
 
 public interface VehicleBrand {
 
